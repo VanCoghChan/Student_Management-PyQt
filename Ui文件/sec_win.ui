@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>932</width>
+    <height>546</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>10</y>
+     <width>651</width>
+     <height>531</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="sortingEnabled">
+    <bool>true</bool>
+   </property>
+   <column>
+    <property name="text">
+     <string>学号</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/Credit_Card.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/Credit_Card.net.png</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>姓名</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/ID_128px_1179915_easyicon.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/ID_128px_1179915_easyicon.net.png</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>大学物理</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/physics__easyicon.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/physics__easyicon.net.png</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>离散数学</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/maths_.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/maths_.png</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>线性代数</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/mathematics.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/mathematics.net.png</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>平均成绩</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/educational_net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/educational_net.png</iconset>
+    </property>
+   </column>
+  </widget>
+  <widget class="QTreeWidget" name="treeWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>251</width>
+     <height>531</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/newPrefix/Desktop/PyQt5/test.ui/1.jpg);</string>
+   </property>
+   <column>
+    <property name="text">
+     <string>学生信息管理</string>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="background">
+     <color>
+      <red>255</red>
+      <green>255</green>
+      <blue>255</blue>
+     </color>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>0</red>
+       <green>85</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/timg.jpg</normaloff>
+      <normalon>flash.png</normalon>:/newPrefix/timg.jpg</iconset>
+    </property>
+   </column>
+   <item>
+    <property name="text">
+     <string>刷新</string>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/Refresh.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/Refresh.png</iconset>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>查询</string>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/search.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/search.png</iconset>
+    </property>
+    <item>
+     <property name="text">
+      <string>按学号</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/字母_a.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/字母_a.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>按姓名</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/字母_b.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/字母_b.png</iconset>
+     </property>
+    </item>
+   </item>
+   <item>
+    <property name="text">
+     <string>可视化学生成绩分布</string>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/Graph_.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/Graph_.net.png</iconset>
+    </property>
+    <item>
+     <property name="text">
+      <string>大学物理</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/physics__easyicon.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/physics__easyicon.net.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>离散数学</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/maths_.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/maths_.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>线性代数</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/mathematics.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/mathematics.net.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>平均成绩</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/educational_net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/educational_net.png</iconset>
+     </property>
+    </item>
+   </item>
+   <item>
+    <property name="text">
+     <string>添加</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/add.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/add.png</iconset>
+    </property>
+    <item>
+     <property name="text">
+      <string>手动添加</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/添加1.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/添加1.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>文件导入</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/添加.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/添加.png</iconset>
+     </property>
+    </item>
+   </item>
+   <item>
+    <property name="text">
+     <string>成绩导出</string>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>127</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+      <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/database.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/database.net.png</iconset>
+    </property>
+    <item>
+     <property name="text">
+      <string>导出为 */.text</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/txt_.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/txt_.net.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>导出为 */.csv</string>
+     </property>
+     <property name="icon">
+      <iconset resource="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url">
+       <normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/csv_.net.png</normaloff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/csv_.net.png</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>导出为 */.xlsx</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <disabledoff>:/newPrefix/Desktop/PyQt5/test.ui/piliang_ico/xlsx.png</disabledoff>
+      </iconset>
+     </property>
+    </item>
+   </item>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../../../Pictures/4K/美女30P/路风影视模型素材（5TB容量）.url"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>piliang_ico/sample_csv.JPG</file>
+    <file>piliang_ico/sample_txt.JPG</file>
+  </qresource>
+</RCC>

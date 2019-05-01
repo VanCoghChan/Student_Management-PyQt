@@ -1,0 +1,3165 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="计科1701-4.files/filelist.xml">
+<link rel=Edit-Time-Data href="计科1701-4.files/editdata.mso">
+<link rel=OLE-Object-Data href="计科1701-4.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>微软用户</o:LastAuthor>
+  <o:Created>2017-07-24T00:06:00Z</o:Created>
+  <o:LastSaved>2018-12-23T02:28:04Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.6749</o:KSOProductBuildVer>
+ </o:CustomDocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.79in .35in .39in .75in;
+	mso-header-margin:.51in;
+	mso-footer-margin:.51in;}
+.font8
+	{color:windowtext;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:楷体_GB2312, monospace;
+	mso-font-charset:134;}
+.font9
+	{color:windowtext;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+.font10
+	{color:windowtext;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:windowtext;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Symbol, serif;
+	mso-font-charset:2;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl66
+	{mso-style-parent:style0;
+	font-size:10.0pt;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl68
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl71
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:等线, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:等线, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl73
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;}
+.xl74
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl75
+	{mso-style-parent:style0;
+	font-size:10.5pt;
+	font-family:楷体_GB2312, monospace;
+	mso-font-charset:134;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl76
+	{mso-style-parent:style0;
+	color:red;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl77
+	{mso-style-parent:style0;
+	color:red;
+	text-align:center;
+	border:.5pt solid windowtext;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>考勤表</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Selected/>
+     <x:TopRowVisible>37</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>37</x:ActiveRow>
+       <x:ActiveCol>19</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>10350</x:WindowHeight>
+  <x:WindowWidth>21600</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=677 style='border-collapse:
+ collapse;table-layout:fixed;width:510pt'>
+ <col class=xl65 width=29 style='mso-width-source:userset;mso-width-alt:928;
+ width:22pt'>
+ <col class=xl66 width=83 style='mso-width-source:userset;mso-width-alt:2656;
+ width:62pt'>
+ <col class=xl66 width=67 style='mso-width-source:userset;mso-width-alt:2144;
+ width:50pt'>
+ <col class=xl66 width=83 style='mso-width-source:userset;mso-width-alt:2656;
+ width:62pt'>
+ <col width=29 span=10 style='mso-width-source:userset;mso-width-alt:928;
+ width:22pt'>
+ <col width=69 style='mso-width-source:userset;mso-width-alt:2208;width:52pt'>
+ <col width=56 style='mso-width-source:userset;mso-width-alt:1792;width:42pt'>
+ <col width=72 span=237 style='width:54pt'>
+ <col width=29 style='mso-width-source:userset;mso-width-alt:928;width:22pt'>
+ <col width=83 style='mso-width-source:userset;mso-width-alt:2656;width:62pt'>
+ <col width=67 style='mso-width-source:userset;mso-width-alt:2144;width:50pt'>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=16 height=44 class=xl73 width=677 style='height:33.0pt;
+  width:510pt'>重庆交通大学2018-2019-1学生课堂考核记录表</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=16 height=30 class=xl74 style='height:22.5pt'
+  x:str="开课单位： 数学与统计学院       课程： 线性代数       任课教师： 何雅维      ">开课单位： 数学与统计学院<span
+  style='mso-spacerun:yes'>       </span>课程： 线性代数<span
+  style='mso-spacerun:yes'>       </span>任课教师： 何雅维<span
+  style='mso-spacerun:yes'>      </span></td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl76 width=29 style='height:45.0pt;border-top:none;
+  width:22pt'>序号</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>学号</td>
+  <td class=xl68 width=67 style='border-top:none;border-left:none;width:50pt'>姓名</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>行政班</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>1</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>2</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>3</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>4</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>5</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>6</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>7</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>8</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>9</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>10</td>
+  <td class=xl67 width=69 style='border-top:none;border-left:none;width:52pt'>成绩</td>
+  <td class=xl70 width=56 style='border-top:none;border-left:none;width:42pt'>备注</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>1</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631507010304</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李春晓</td>
+  <td class=xl72 style='border-top:none;border-left:none'>电信类1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>2</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631507020311</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭州勇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>3</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631607040101</td>
+  <td class=xl71 style='border-top:none;border-left:none'>代啟志</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>4</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631607040217</td>
+  <td class=xl71 style='border-top:none;border-left:none'>周鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>5</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631607040508</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李涛</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>6</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631607040512</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭博</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>7</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631701151013</td>
+  <td class=xl71 style='border-top:none;border-left:none'>殷思源</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>8</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631704140411</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李琳</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>9</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631704140512</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李小军</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>10</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631705010212</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘智</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>11</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631705070321</td>
+  <td class=xl71 style='border-top:none;border-left:none'>唐一鸥</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>12</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060101</td>
+  <td class=xl71 style='border-top:none;border-left:none'>白鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>13</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060102</td>
+  <td class=xl71 style='border-top:none;border-left:none'>蔡幸伦</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>14</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060103</td>
+  <td class=xl71 style='border-top:none;border-left:none'>车路航</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>15</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060105</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈嘉敏</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>16</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060106</td>
+  <td class=xl71 style='border-top:none;border-left:none'>戴英睿</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>17</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060107</td>
+  <td class=xl71 style='border-top:none;border-left:none'>范宇东</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>18</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060108</td>
+  <td class=xl71 style='border-top:none;border-left:none'>胡中宝</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>19</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060109</td>
+  <td class=xl71 style='border-top:none;border-left:none'>蒋新宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>20</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060110</td>
+  <td class=xl71 style='border-top:none;border-left:none'>景麒宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>21</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060112</td>
+  <td class=xl71 style='border-top:none;border-left:none'>廖阳</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>22</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060113</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘丹</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>23</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060114</td>
+  <td class=xl71 style='border-top:none;border-left:none'>罗攀</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>24</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060115</td>
+  <td class=xl71 style='border-top:none;border-left:none'>邱健</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>25</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060116</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭庆有</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>26</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060117</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭小莉</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>27</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060118</td>
+  <td class=xl71 style='border-top:none;border-left:none'>唐芦智鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>28</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060119</td>
+  <td class=xl71 style='border-top:none;border-left:none'>唐瑞成</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>29</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060121</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王储鹏</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>30</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060122</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王杰</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>31</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060123</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王艺淳</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=84 style='mso-height-source:userset;height:63.0pt'>
+  <td colspan=16 height=84 class=xl75 width=677 style='height:63.0pt;
+  width:510pt'>说明：<br>
+    <font class="font9">1.</font><font class="font10">本表用于任课教师记录学生出勤等课堂表现基本情况。</font><font
+  class="font9"><br>
+    2.√</font><font class="font10">—出勤</font><font class="font9"><span
+  style='mso-spacerun:yes'>  </span>X—</font><font class="font10">旷课</font><font
+  class="font9"> </font><font class="font8">△—事假</font><font class="font9"><span
+  style='mso-spacerun:yes'>   </span></font><font class="font8">○—病假</font><font
+  class="font9"><span style='mso-spacerun:yes'>   </span></font><font
+  class="font11">Ä</font><font class="font8">—迟到</font><font class="font9"> </font><font
+  class="font10">（其他标记符号请注明符号含义）。</font><font class="font9"> <br>
+    3. </font><font class="font10">课程考核结束后应将本表归档到课程考核档案材料。</font></td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=16 height=44 class=xl73 style='height:33.0pt'>重庆交通大学2018-2019-1学生课堂考核记录表</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=16 height=30 class=xl74 style='height:22.5pt'
+  x:str="开课单位： 数学与统计学院       课程： 线性代数       任课教师： 何雅维      ">开课单位： 数学与统计学院<span
+  style='mso-spacerun:yes'>       </span>课程： 线性代数<span
+  style='mso-spacerun:yes'>       </span>任课教师： 何雅维<span
+  style='mso-spacerun:yes'>      </span></td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl67 width=29 style='height:45.0pt;border-top:none;
+  width:22pt'>序号</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>学号</td>
+  <td class=xl68 width=67 style='border-top:none;border-left:none;width:50pt'>姓名</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>行政班</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>1</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>2</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>3</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>4</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>5</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>6</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>7</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>8</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>9</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>10</td>
+  <td class=xl67 width=69 style='border-top:none;border-left:none;width:52pt'>成绩</td>
+  <td class=xl70 width=56 style='border-top:none;border-left:none;width:42pt'>备注</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>32</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060124</td>
+  <td class=xl71 style='border-top:none;border-left:none'>韦松</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>33</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060125</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谢俊炜</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>34</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060126</td>
+  <td class=xl71 style='border-top:none;border-left:none'>严雪</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>35</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060127</td>
+  <td class=xl71 style='border-top:none;border-left:none'>晏秋生</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>36</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060128</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杨秋月</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>37</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060129</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张豪</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>38</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060130</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张平平</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>39</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060131</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张书凯</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>40</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060132</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张天源</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>41</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060133</td>
+  <td class=xl71 style='border-top:none;border-left:none'>郑鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>42</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060135</td>
+  <td class=xl71 style='border-top:none;border-left:none'>周开发</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>43</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060202</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈玉琳</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>44</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060203</td>
+  <td class=xl71 style='border-top:none;border-left:none'>邓明强</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>45</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060204</td>
+  <td class=xl71 style='border-top:none;border-left:none'>费职友</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>46</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060207</td>
+  <td class=xl71 style='border-top:none;border-left:none'>黄飞鸿</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>47</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060210</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李源梦</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>48</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060211</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘晨辉</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>49</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060213</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘晴晴</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>50</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060215</td>
+  <td class=xl71 style='border-top:none;border-left:none'>毛贵连</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>51</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060217</td>
+  <td class=xl71 style='border-top:none;border-left:none'>冉桂豪</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>52</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060218</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭雪灵</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>53</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060219</td>
+  <td class=xl71 style='border-top:none;border-left:none'>唐源</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>54</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060220</td>
+  <td class=xl71 style='border-top:none;border-left:none'>汪大盛</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>55</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060221</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王瑞俊</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>56</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060222</td>
+  <td class=xl71 style='border-top:none;border-left:none'>文海龙</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>57</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060223</td>
+  <td class=xl71 style='border-top:none;border-left:none'>吴杭俊</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>58</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060225</td>
+  <td class=xl71 style='border-top:none;border-left:none'>肖桥</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>59</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060227</td>
+  <td class=xl71 style='border-top:none;border-left:none'>薛雨辰</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>60</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060228</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杨磊</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>61</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060229</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杨先业</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>62</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060230</td>
+  <td class=xl71 style='border-top:none;border-left:none'>叶媛</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=84 style='mso-height-source:userset;height:63.0pt'>
+  <td colspan=16 height=84 class=xl75 width=677 style='height:63.0pt;
+  width:510pt'>说明：<br>
+    <font class="font9">1.</font><font class="font10">本表用于任课教师记录学生出勤等课堂表现基本情况。</font><font
+  class="font9"><br>
+    2.√</font><font class="font10">—出勤</font><font class="font9"><span
+  style='mso-spacerun:yes'>  </span>X—</font><font class="font10">旷课</font><font
+  class="font9"> </font><font class="font8">△—事假</font><font class="font9"><span
+  style='mso-spacerun:yes'>   </span></font><font class="font8">○—病假</font><font
+  class="font9"><span style='mso-spacerun:yes'>   </span></font><font
+  class="font11">Ä</font><font class="font8">—迟到</font><font class="font9"> </font><font
+  class="font10">（其他标记符号请注明符号含义）。</font><font class="font9"> <br>
+    3. </font><font class="font10">课程考核结束后应将本表归档到课程考核档案材料。</font></td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=16 height=44 class=xl73 style='height:33.0pt'>重庆交通大学2018-2019-1学生课堂考核记录表</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=16 height=30 class=xl74 style='height:22.5pt'
+  x:str="开课单位： 数学与统计学院       课程： 线性代数       任课教师： 何雅维      ">开课单位： 数学与统计学院<span
+  style='mso-spacerun:yes'>       </span>课程： 线性代数<span
+  style='mso-spacerun:yes'>       </span>任课教师： 何雅维<span
+  style='mso-spacerun:yes'>      </span></td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl67 width=29 style='height:45.0pt;border-top:none;
+  width:22pt'>序号</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>学号</td>
+  <td class=xl68 width=67 style='border-top:none;border-left:none;width:50pt'>姓名</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>行政班</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>1</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>2</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>3</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>4</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>5</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>6</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>7</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>8</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>9</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>10</td>
+  <td class=xl67 width=69 style='border-top:none;border-left:none;width:52pt'>成绩</td>
+  <td class=xl70 width=56 style='border-top:none;border-left:none;width:42pt'>备注</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>63</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060231</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张禾</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>64</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060232</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>65</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060233</td>
+  <td class=xl71 style='border-top:none;border-left:none'>钟家富</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>66</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060235</td>
+  <td class=xl71 style='border-top:none;border-left:none'>周禹冲</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>67</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060301</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈康</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>68</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060304</td>
+  <td class=xl71 style='border-top:none;border-left:none'>丁超</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>69</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060305</td>
+  <td class=xl71 style='border-top:none;border-left:none'>龚嫒玥</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>70</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060306</td>
+  <td class=xl71 style='border-top:none;border-left:none'>龚桂林</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>71</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060307</td>
+  <td class=xl71 style='border-top:none;border-left:none'>何玮环</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>72</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060308</td>
+  <td class=xl71 style='border-top:none;border-left:none'>黄富灵</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>73</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060309</td>
+  <td class=xl71 style='border-top:none;border-left:none'>黎江陵</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>74</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060314</td>
+  <td class=xl71 style='border-top:none;border-left:none'>罗小琪</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>75</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060316</td>
+  <td class=xl71 style='border-top:none;border-left:none'>宁向阳</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>76</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060317</td>
+  <td class=xl71 style='border-top:none;border-left:none'>欧光继</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>77</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060318</td>
+  <td class=xl71 style='border-top:none;border-left:none'>任腾宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>78</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060321</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王树林</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>79</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060325</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谢乙乐</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>80</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060327</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杨奕龙</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>81</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060328</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杨永桃</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>82</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060331</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张星宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>83</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060332</td>
+  <td class=xl71 style='border-top:none;border-left:none'>钟建川</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>84</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060333</td>
+  <td class=xl71 style='border-top:none;border-left:none'>周青青</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>85</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060335</td>
+  <td class=xl71 style='border-top:none;border-left:none'>朱旭晨</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>86</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060401</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈鹤</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>87</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060402</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈佳博</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>88</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060404</td>
+  <td class=xl71 style='border-top:none;border-left:none'>丁静</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>89</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060405</td>
+  <td class=xl71 style='border-top:none;border-left:none'>杜运章</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>90</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060407</td>
+  <td class=xl71 style='border-top:none;border-left:none'>胡锟</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>91</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060408</td>
+  <td class=xl71 style='border-top:none;border-left:none'>黄榉</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>92</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060409</td>
+  <td class=xl71 style='border-top:none;border-left:none'>黎诗思</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>93</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060410</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李金芮</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=84 style='mso-height-source:userset;height:63.0pt'>
+  <td colspan=16 height=84 class=xl75 width=677 style='height:63.0pt;
+  width:510pt'>说明：<br>
+    <font class="font9">1.</font><font class="font10">本表用于任课教师记录学生出勤等课堂表现基本情况。</font><font
+  class="font9"><br>
+    2.√</font><font class="font10">—出勤</font><font class="font9"><span
+  style='mso-spacerun:yes'>  </span>X—</font><font class="font10">旷课</font><font
+  class="font9"> </font><font class="font8">△—事假</font><font class="font9"><span
+  style='mso-spacerun:yes'>   </span></font><font class="font8">○—病假</font><font
+  class="font9"><span style='mso-spacerun:yes'>   </span></font><font
+  class="font11">Ä</font><font class="font8">—迟到</font><font class="font9"> </font><font
+  class="font10">（其他标记符号请注明符号含义）。</font><font class="font9"> <br>
+    3. </font><font class="font10">课程考核结束后应将本表归档到课程考核档案材料。</font></td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=16 height=44 class=xl73 style='height:33.0pt'>重庆交通大学2018-2019-1学生课堂考核记录表</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=16 height=30 class=xl74 style='height:22.5pt'
+  x:str="开课单位： 数学与统计学院       课程： 线性代数       任课教师： 何雅维      ">开课单位： 数学与统计学院<span
+  style='mso-spacerun:yes'>       </span>课程： 线性代数<span
+  style='mso-spacerun:yes'>       </span>任课教师： 何雅维<span
+  style='mso-spacerun:yes'>      </span></td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl67 width=29 style='height:45.0pt;border-top:none;
+  width:22pt'>序号</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>学号</td>
+  <td class=xl68 width=67 style='border-top:none;border-left:none;width:50pt'>姓名</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>行政班</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>1</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>2</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>3</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>4</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>5</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>6</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>7</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>8</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>9</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>10</td>
+  <td class=xl67 width=69 style='border-top:none;border-left:none;width:52pt'>成绩</td>
+  <td class=xl70 width=56 style='border-top:none;border-left:none;width:42pt'>备注</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>94</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060411</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李明星</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>95</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060412</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李祖元</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>96</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060413</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘兴元</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>97</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060414</td>
+  <td class=xl71 style='border-top:none;border-left:none'>罗秋菊</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>98</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060415</td>
+  <td class=xl71 style='border-top:none;border-left:none'>马思源</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>99</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060420</td>
+  <td class=xl71 style='border-top:none;border-left:none'>王星星</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>100</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060423</td>
+  <td class=xl71 style='border-top:none;border-left:none'>夏超</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>101</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060425</td>
+  <td class=xl71 style='border-top:none;border-left:none'>熊洪伟</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>102</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060428</td>
+  <td class=xl71 style='border-top:none;border-left:none'>俞俊源</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>103</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060429</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张洪廙</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>104</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060432</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张玥</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>105</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060434</td>
+  <td class=xl71 style='border-top:none;border-left:none'>邹小雪</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>106</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060503</td>
+  <td class=xl71 style='border-top:none;border-left:none'>樊雪莹</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>107</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060508</td>
+  <td class=xl71 style='border-top:none;border-left:none'>胡俊杰</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>108</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060514</td>
+  <td class=xl71 style='border-top:none;border-left:none'>梁浩林</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>109</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060515</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘洋</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>110</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060518</td>
+  <td class=xl71 style='border-top:none;border-left:none'>彭剑义</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>111</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060521</td>
+  <td class=xl71 style='border-top:none;border-left:none'>帅健强</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>112</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060524</td>
+  <td class=xl71 style='border-top:none;border-left:none'>邬冰莹</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>113</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060525</td>
+  <td class=xl71 style='border-top:none;border-left:none'>伍锡鹏</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>114</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060527</td>
+  <td class=xl71 style='border-top:none;border-left:none'>许志成</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>115</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060528</td>
+  <td class=xl71 style='border-top:none;border-left:none'>易红林</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>116</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060529</td>
+  <td class=xl71 style='border-top:none;border-left:none'>尹亚洲</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>117</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060530</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张俊杰</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>118</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060531</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张强</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1702班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>119</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060532</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张雪莲</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>120</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060533</td>
+  <td class=xl71 style='border-top:none;border-left:none'>赵森林</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>121</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060534</td>
+  <td class=xl71 style='border-top:none;border-left:none'>周浩博</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>122</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060601</td>
+  <td class=xl71 style='border-top:none;border-left:none'>蔡嫦娟</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>123</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060602</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈灿</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>124</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060603</td>
+  <td class=xl71 style='border-top:none;border-left:none'>陈航富</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=84 style='mso-height-source:userset;height:63.0pt'>
+  <td colspan=16 height=84 class=xl75 width=677 style='height:63.0pt;
+  width:510pt'>说明：<br>
+    <font class="font9">1.</font><font class="font10">本表用于任课教师记录学生出勤等课堂表现基本情况。</font><font
+  class="font9"><br>
+    2.√</font><font class="font10">—出勤</font><font class="font9"><span
+  style='mso-spacerun:yes'>  </span>X—</font><font class="font10">旷课</font><font
+  class="font9"> </font><font class="font8">△—事假</font><font class="font9"><span
+  style='mso-spacerun:yes'>   </span></font><font class="font8">○—病假</font><font
+  class="font9"><span style='mso-spacerun:yes'>   </span></font><font
+  class="font11">Ä</font><font class="font8">—迟到</font><font class="font9"> </font><font
+  class="font10">（其他标记符号请注明符号含义）。</font><font class="font9"> <br>
+    3. </font><font class="font10">课程考核结束后应将本表归档到课程考核档案材料。</font></td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=16 height=44 class=xl73 style='height:33.0pt'>重庆交通大学2018-2019-1学生课堂考核记录表</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=16 height=30 class=xl74 style='height:22.5pt'
+  x:str="开课单位： 数学与统计学院       课程： 线性代数       任课教师： 何雅维      ">开课单位： 数学与统计学院<span
+  style='mso-spacerun:yes'>       </span>课程： 线性代数<span
+  style='mso-spacerun:yes'>       </span>任课教师： 何雅维<span
+  style='mso-spacerun:yes'>      </span></td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl67 width=29 style='height:45.0pt;border-top:none;
+  width:22pt'>序号</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>学号</td>
+  <td class=xl68 width=67 style='border-top:none;border-left:none;width:50pt'>姓名</td>
+  <td class=xl68 width=83 style='border-top:none;border-left:none;width:62pt'>行政班</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>1</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>2</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>3</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>4</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>5</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>6</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>7</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>8</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>9</td>
+  <td class=xl69 style='border-top:none;border-left:none' x:num>10</td>
+  <td class=xl67 width=69 style='border-top:none;border-left:none;width:52pt'>成绩</td>
+  <td class=xl70 width=56 style='border-top:none;border-left:none;width:42pt'>备注</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>125</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060605</td>
+  <td class=xl71 style='border-top:none;border-left:none'>楚小茜</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>126</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060607</td>
+  <td class=xl71 style='border-top:none;border-left:none'>范英齐</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>127</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060610</td>
+  <td class=xl71 style='border-top:none;border-left:none'>江欣剑</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>128</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060611</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李天光</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>129</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060612</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李沂玲</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>130</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060613</td>
+  <td class=xl71 style='border-top:none;border-left:none'>梁正澜</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>131</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060614</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘荣燚</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>132</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060615</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘永涛</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>133</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060616</td>
+  <td class=xl71 style='border-top:none;border-left:none'>刘志雄</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>134</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060618</td>
+  <td class=xl71 style='border-top:none;border-left:none'>彭鑫</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>135</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060619</td>
+  <td class=xl71 style='border-top:none;border-left:none'>沈凌</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>136</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060620</td>
+  <td class=xl71 style='border-top:none;border-left:none'>孙智敏</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>137</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060621</td>
+  <td class=xl71 style='border-top:none;border-left:none'>谭俊华</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>138</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060624</td>
+  <td class=xl71 style='border-top:none;border-left:none'>韦金矗</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>139</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060625</td>
+  <td class=xl71 style='border-top:none;border-left:none'>吴越</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>140</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060626</td>
+  <td class=xl71 style='border-top:none;border-left:none'>夏猷杰</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>141</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060627</td>
+  <td class=xl71 style='border-top:none;border-left:none'>严欢</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>142</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060630</td>
+  <td class=xl71 style='border-top:none;border-left:none'>喻苑恒</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>143</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631707060632</td>
+  <td class=xl71 style='border-top:none;border-left:none'>赵晓梅</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>144</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631708030231</td>
+  <td class=xl71 style='border-top:none;border-left:none'>甄小宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>145</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631708040232</td>
+  <td class=xl71 style='border-top:none;border-left:none'>朱棣文</td>
+  <td class=xl72 style='border-top:none;border-left:none'>曙光1701班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>146</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631709090120</td>
+  <td class=xl71 style='border-top:none;border-left:none'>李星宇</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1703班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl77 style='height:18.0pt;border-top:none' x:num>147</td>
+  <td class=xl71 style='border-top:none;border-left:none'>631709160431</td>
+  <td class=xl71 style='border-top:none;border-left:none'>张永春</td>
+  <td class=xl72 style='border-top:none;border-left:none'>计科1704班</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+  <td class=xl72 style='border-top:none;border-left:none'>　</td>
+ </tr>
+ <tr height=84 style='mso-height-source:userset;height:63.0pt'>
+  <td colspan=16 height=84 class=xl75 width=677 style='height:63.0pt;
+  width:510pt'>说明：<br>
+    <font class="font9">1.</font><font class="font10">本表用于任课教师记录学生出勤等课堂表现基本情况。</font><font
+  class="font9"><br>
+    2.√</font><font class="font10">—出勤</font><font class="font9"><span
+  style='mso-spacerun:yes'>  </span>X—</font><font class="font10">旷课</font><font
+  class="font9"> </font><font class="font8">△—事假</font><font class="font9"><span
+  style='mso-spacerun:yes'>   </span></font><font class="font8">○—病假</font><font
+  class="font9"><span style='mso-spacerun:yes'>   </span></font><font
+  class="font11">Ä</font><font class="font8">—迟到</font><font class="font9"> </font><font
+  class="font10">（其他标记符号请注明符号含义）。</font><font class="font9"> <br>
+    3. </font><font class="font10">课程考核结束后应将本表归档到课程考核档案材料。</font></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=29 style='width:22pt'></td>
+  <td width=83 style='width:62pt'></td>
+  <td width=67 style='width:50pt'></td>
+  <td width=83 style='width:62pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=29 style='width:22pt'></td>
+  <td width=69 style='width:52pt'></td>
+  <td width=56 style='width:42pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
