@@ -2,7 +2,7 @@
 
 ### 登录界面
 
-![](C:\Users\Administrator\Desktop\捕获1.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/p1.JPG)
 
 
 
