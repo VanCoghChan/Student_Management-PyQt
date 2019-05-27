@@ -8,7 +8,7 @@
 
 ### 主界面1
 
-![](C:\Users\Administrator\Desktop\捕获.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获.JPG)
 
 
 
@@ -16,17 +16,17 @@
 
 ### 简单查找
 
-![](C:\Users\Administrator\Desktop\捕获2.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获2.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获3.JPG)
+!image[](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获3.JPG)
 
 
 
 ### 简单录入信息
 
-![](C:\Users\Administrator\Desktop\捕获4.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获4.JPG)
 
 
 
@@ -34,17 +34,17 @@
 
 ### 文件导入
 
-![](C:\Users\Administrator\Desktop\捕获5.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获5.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获6.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获6.JPG)
 
 
 
 ### 主界面2
 
-![](C:\Users\Administrator\Desktop\捕获7.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获7.JPG)
 
 
 
@@ -52,15 +52,15 @@
 
 ### 数据可视化
 
-![](C:\Users\Administrator\Desktop\捕获8.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获8.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获9.JPG)
+![iamge](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获9.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获10.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获10.JPG)
 
 
 
@@ -70,12 +70,12 @@
 
 
 
-![](C:\Users\Administrator\Desktop\捕获11.JPG)
+![iamge](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获11.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获12.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获12.JPG)
 
 
 
-![](C:\Users\Administrator\Desktop\捕获13.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获13.JPG)
