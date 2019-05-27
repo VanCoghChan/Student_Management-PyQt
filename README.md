@@ -20,7 +20,7 @@
 
 
 
-!image[](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获3.JPG)
+![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获3.JPG)
 
 
 
