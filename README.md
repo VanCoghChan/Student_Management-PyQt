@@ -2,13 +2,13 @@
 
 ### 登录界面
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/1.jpeg)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B71.JPG)
 
 
 
 ### 主界面1
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B7.JPG)
 
 
 
@@ -16,17 +16,17 @@
 
 ### 简单查找
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获2.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B72.JPG)
 
 
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获3.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B73.JPG)
 
 
 
 ### 简单录入信息
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获4.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B74.JPG)
 
 
 
@@ -34,17 +34,17 @@
 
 ### 文件导入
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获5.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B75.JPG)
 
 
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获6.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B76.JPG)
 
 
 
 ### 主界面2
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获7.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B77.JPG)
 
 
 
@@ -52,15 +52,15 @@
 
 ### 数据可视化
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获8.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B78.JPG)
 
 
 
-![iamge](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获9.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B79.JPG)
 
 
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获10.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B710.JPG)
 
 
 
@@ -70,12 +70,12 @@
 
 
 
-![iamge](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获11.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B711.JPG)
 
 
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获12.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B712.JPG)
 
 
 
-![image](https://github.com/VanCoghChan/Student_Management-PyQt/tree/master/README%20images/捕获13.JPG)
+![](https://github.com/VanCoghChan/Student_Management-PyQt/blob/master/README_images/%E6%8D%95%E8%8E%B713.JPG)
